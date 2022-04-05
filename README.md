@@ -1,2 +1,2 @@
 ## Live Site
-Open : [https://grid-form.vercel.app/]
+Open : [Grid Form](grid-form.vercel.app)
